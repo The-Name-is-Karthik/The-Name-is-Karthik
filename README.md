@@ -31,7 +31,7 @@ I’m a **2024 graduate from IIT Kanpur** with a background in **Physics**, curr
 - **Applied Machine Learning**
 - **Backend APIs and deployment**
 
-I like working on problems where the challenge is not just model performance, but **how the whole system behaves end to end** — reliability, control flow, retrieval quality, deployment, and observability.
+I like working on problems where the challenge is not just model performance, but **how the whole system behaves end to end**  reliability, control flow, retrieval quality, deployment, and observability.
 
 ---
 
@@ -173,7 +173,7 @@ A closed-loop **LLM-powered debugging workflow** that detects, patches, and vali
 
 ## Achievements
 
-- **Top 10 Finalist** — SARCathon, PAN-IIT AI Hackathon, IIT Bombay
+- **Top 10 Finalist** SARCathon, PAN-IIT AI Hackathon, IIT Bombay
 - Built a **multilingual RAG-based FAQ system** under time-constrained hackathon settings
 - Interested in building AI systems that balance **speed, reliability, and practical utility**
 
